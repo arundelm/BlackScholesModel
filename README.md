@@ -13,5 +13,3 @@ The project also generates a visual comparison of the Black-Scholes valuation ag
 - **Accuracy Testing**: Compares Black-Scholes valuations to real market prices, achieving 95% accuracy.
 - **Plotting**: Generates a plot showing the Black-Scholes model valuations versus actual market prices.
 
-### Developer Frameworks/Libraries Employed
-Pandas, Matplotlib, yfinance, Datetime, NumPy, SciPy, 
