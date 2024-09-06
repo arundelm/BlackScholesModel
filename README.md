@@ -12,3 +12,6 @@ The project also generates a visual comparison of the Black-Scholes valuation ag
 - **Greeks Calculation**: Computes the Greeks (Delta, Gamma, Vega, Theta, Rho) to analyze option sensitivity.
 - **Accuracy Testing**: Compares Black-Scholes valuations to real market prices, achieving 95% accuracy.
 - **Plotting**: Generates a plot showing the Black-Scholes model valuations versus actual market prices.
+
+### Developer Frameworks/Libraries Employed
+Pandas, Matplotlib, yfinance, Datetime, NumPy, SciPy, 
